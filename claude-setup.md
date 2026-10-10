@@ -1,3 +1,5 @@
+```
 export ANTHROPIC_BASE_URL=https://ai.soruxgpt.com
 export ANTHROPIC_CLI_URL=https://ai.soruxgpt.com/v1
 export ANTHROPIC_AUTH_TOKEN=<your token>
+```
